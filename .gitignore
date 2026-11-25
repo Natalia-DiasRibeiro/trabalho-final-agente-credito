@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+comparacao_com_sem_rag.md
+testes_registrados.md

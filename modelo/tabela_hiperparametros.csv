@@ -1,0 +1,9 @@
+modelo,hiperparametro,valores_testados,melhor
+Regressão Logística,C,"0.01, 0.1, 1, 10, 100",10
+Regressão Logística,penalty,"l1, l2",l2
+KNN,n_neighbors,"5, 11, 21, 31, 51",31
+KNN,weights,"uniform, distance",distance
+KNN,metric,"euclidean, manhattan",manhattan
+MLP,hidden_layer_sizes,"(32,), (64,), (64, 32)","(64,)"
+MLP,activation,"relu, tanh",relu
+MLP,alpha,"0.0001, 0.001, 0.01",0.01

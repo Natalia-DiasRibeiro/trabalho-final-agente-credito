@@ -1,0 +1,67 @@
+[
+ {
+  "entrada": {
+   "limite_credito": 50000,
+   "idade": 43,
+   "situacao_pag_set": 0,
+   "situacao_pag_ago": 0,
+   "situacao_pag_jul": 0,
+   "fatura_set": 39177,
+   "pagamento_set": 2000,
+   "escolaridade": "Ensino médio"
+  },
+  "previsao_no_treino": "nao"
+ },
+ {
+  "entrada": {
+   "limite_credito": 240000,
+   "idade": 31,
+   "situacao_pag_set": 0,
+   "situacao_pag_ago": 0,
+   "situacao_pag_jul": 0,
+   "fatura_set": 168376,
+   "pagamento_set": 7648,
+   "escolaridade": "Universidade"
+  },
+  "previsao_no_treino": "nao"
+ },
+ {
+  "entrada": {
+   "limite_credito": 90000,
+   "idade": 25,
+   "situacao_pag_set": 0,
+   "situacao_pag_ago": 0,
+   "situacao_pag_jul": 0,
+   "fatura_set": 6090,
+   "pagamento_set": 1500,
+   "escolaridade": "Pós-graduação"
+  },
+  "previsao_no_treino": "nao"
+ },
+ {
+  "entrada": {
+   "limite_credito": 50000,
+   "idade": 22,
+   "situacao_pag_set": 0,
+   "situacao_pag_ago": 0,
+   "situacao_pag_jul": 2,
+   "fatura_set": 30631,
+   "pagamento_set": 4809,
+   "escolaridade": "Universidade"
+  },
+  "previsao_no_treino": "nao"
+ },
+ {
+  "entrada": {
+   "limite_credito": 230000,
+   "idade": 32,
+   "situacao_pag_set": 0,
+   "situacao_pag_ago": 0,
+   "situacao_pag_jul": 0,
+   "fatura_set": 44734,
+   "pagamento_set": 10120,
+   "escolaridade": "Pós-graduação"
+  },
+  "previsao_no_treino": "nao"
+ }
+]

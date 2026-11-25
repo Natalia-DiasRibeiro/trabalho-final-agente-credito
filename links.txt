@@ -1,0 +1,5 @@
+Grupo: Natália Dias Ribeiro; Victor dos Santos Santin
+App: https://PREENCHER.onrender.com
+GitHub: https://github.com/PREENCHER/PREENCHER
+Commit entregue (hash): PREENCHER (rodem: git rev-parse --short HEAD)
+Chave reserva para a apresentação: sim/não

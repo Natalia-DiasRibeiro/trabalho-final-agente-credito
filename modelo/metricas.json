@@ -1,0 +1,42 @@
+{
+  "modelo": "MLP {'activation': 'relu', 'alpha': '0.01', 'hidden_layer_sizes': '(64,)'}",
+  "acuracia_teste": 0.819,
+  "precisao_teste": 0.688,
+  "recall_teste": 0.336,
+  "especificidade_teste": 0.957,
+  "f1_teste": 0.452,
+  "auc_teste": 0.751,
+  "f1_validacao_cruzada": 0.483,
+  "matriz_confusao_teste": {
+    "verdadeiros_negativos": 4465,
+    "falsos_positivos": 202,
+    "falsos_negativos": 880,
+    "verdadeiros_positivos": 446
+  },
+  "n_treino": 23972,
+  "n_teste": 5993,
+  "comparacao_modelos": {
+    "Regressão Logística": {
+      "f1_validacao_cruzada": 0.352,
+      "f1_teste": 0.364,
+      "recall_teste": 0.244,
+      "auc_teste": 0.713,
+      "acuracia_teste": 0.812
+    },
+    "KNN": {
+      "f1_validacao_cruzada": 0.461,
+      "f1_teste": 0.454,
+      "recall_teste": 0.354,
+      "auc_teste": 0.733,
+      "acuracia_teste": 0.811
+    },
+    "MLP": {
+      "f1_validacao_cruzada": 0.483,
+      "f1_teste": 0.452,
+      "recall_teste": 0.336,
+      "auc_teste": 0.751,
+      "acuracia_teste": 0.819
+    }
+  },
+  "sklearn_version": "1.9.1"
+}
